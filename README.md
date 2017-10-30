@@ -15,10 +15,6 @@ Run the main file ``main.sh`` and add the elements of your list after
 
 ``
 $ bash main.sh 1 5 4 2
-1
-2
-4
-5
 ``
 
 
