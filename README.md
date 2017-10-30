@@ -20,4 +20,4 @@ $ bash main.sh 1 5 4 2
 
 ## Updates
 
-Thank you to @bradoyler for providing an implementation of Sleep Sort in Javascript!
+Thank you to [@bradoyler](https://github.com/bradoyler) for providing an implementation of Sleep Sort in Javascript!
